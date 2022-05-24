@@ -1,0 +1,28 @@
+.App{
+  text-align: center;
+}
+
+.start{
+  background: chartreuse;
+  border: none;
+  cursor: pointer;
+  color: red;
+  padding: 8px 10px;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.stop{
+  background: red;
+  border: none;
+  cursor: pointer;
+  color: black;
+  padding: 8px 10px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.input{
+  width: 100px;
+}
